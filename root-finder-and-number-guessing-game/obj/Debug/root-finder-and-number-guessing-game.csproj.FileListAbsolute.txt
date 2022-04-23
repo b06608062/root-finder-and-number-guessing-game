@@ -1,0 +1,11 @@
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\bin\Debug\root-finder-and-number-guessing-game.exe.config
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\bin\Debug\root-finder-and-number-guessing-game.exe
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\bin\Debug\root-finder-and-number-guessing-game.pdb
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\obj\Debug\root-finder-and-number-guessing-game.csproj.AssemblyReference.cache
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\obj\Debug\root-finder-and-number-guessing-game.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\obj\Debug\root_finder_and_number_guessing_game.MainForm.resources
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\obj\Debug\root_finder_and_number_guessing_game.Properties.Resources.resources
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\obj\Debug\root-finder-and-number-guessing-game.csproj.GenerateResource.cache
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\obj\Debug\root-finder-and-number-guessing-game.csproj.CoreCompileInputs.cache
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\obj\Debug\root-finder-and-number-guessing-game.exe
+C:\Users\fanti\source\repos\root-finder-and-number-guessing-game\root-finder-and-number-guessing-game\obj\Debug\root-finder-and-number-guessing-game.pdb
